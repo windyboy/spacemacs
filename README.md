@@ -185,7 +185,7 @@ Details can be found on the emacs-mac-port [README][emacs-mac-port-server].
 2. Clone this repository _with its submodules_:
 
    ```sh
-   git clone --recursive https://github.com/syl20bnr/spacemacs ~/.emacs.d
+   git clone --recursive https://github.com/windyboy/spacemacs ~/.emacs.d
    ```
 
    `master` is the stable branch and is regularly updated. Switch to the `develop`
